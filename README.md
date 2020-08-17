@@ -1,2 +1,3 @@
 # githubtest
-hello github
+hello from github
+hello from simon@lubuntu
